@@ -1,7 +1,7 @@
 # DATA SCIENTIST JOB MARKET
 
 
-In this project, we will discuss the data scientist job market in the Austin, TX area. What are the requirements to be hired, who are the big players in the industry, what are the starting salaries etc.
+In this project, we discussed the data scientist job market in the Austin, TX area. What are the requirements to be hired, who are the big players in the industry, what are the skills and education demanded the most.
 
 ## Finding the Data
 ![Data Scintist by Kaggle.com](Images/kaggle.png)
